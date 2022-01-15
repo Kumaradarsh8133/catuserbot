@@ -19,7 +19,7 @@ A simple Telegram userbot based on Telethon .
 
 ## How to deploy catuserbot
 ### Heroku Deploy
-  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mr-confused/nekopack)
+  - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Kumaradarsh8133/nekopack)
 
 ### Self host
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
@@ -29,10 +29,10 @@ A simple Telegram userbot based on Telethon .
    <a href="https://t.me/catuserbot_support"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
    
 ## Inspiration
-   - [X-tra-Telegram](https://github.com/Dark-Princ3/X-tra-Telegram)
-   - [Uniborg](https://github.com/SpEcHiDe/UniBorg) & [Uniborg fork](https://github.com/ravana69/PornHub)
-   - [Nana-Remix](https://github.com/pokurt/Nana-Remix)
-   - [Userge-X](https://github.com/code-rgb/USERGE-X/)
+   - [X-tra-Telegram](https://github.com/Kumaradarsh8133/X-tra-Telegram)
+   - [Uniborg](https://github.com/SpEcHiDe/UniBorg) & [Uniborg fork](https://github.com/Kumaradarsh8133/PornHub)
+   - [Nana-Remix](https://github.com/Kumaradarsh8133/Nana-Remix)
+   - [Userge-X](https://github.com/Kumaradarsh8133/USERGE-X/)
    
 ## Disclaimer
 
